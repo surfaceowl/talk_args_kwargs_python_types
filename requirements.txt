@@ -1,6 +1,6 @@
 jupyter==1.0.0
 jupyter-contrib-nbextensions==0.5.1    # needed to configure RISE for presentation 
-black[jupyter]==22.6.0
+black[jupyter]==26.10.1
 RISE==5.7.1                            # interactive slides displayed from jupyter notebook; great for presentations
 
 
